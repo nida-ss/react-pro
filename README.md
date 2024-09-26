@@ -1,6 +1,8 @@
 hey I'm Starting forward my web development to React 
 here are some key points that need to remember.
 
+# React
+react is a SPA(single page application). 
 
 # Reconciliation
 the algorithm React uses to diff one tree with another to determine which parts to be changed.
